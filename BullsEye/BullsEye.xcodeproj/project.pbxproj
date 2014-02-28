@@ -88,6 +88,7 @@
 				35E5417E18AFAF1D0038A43A /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		35E5417E18AFAF1D0038A43A /* Products */ = {
 			isa = PBXGroup;
